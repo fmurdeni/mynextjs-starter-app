@@ -1,0 +1,8 @@
+📋 Default Login Credentials:
+👑 Admin User:
+   Email: admin@example.com
+   Password: admin123
+
+👤 Regular User:
+   Email: user@example.com
+   Password: user123
