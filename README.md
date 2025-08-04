@@ -30,7 +30,7 @@ Create a `.env` file in the root directory with the following content:
 
 ```bash
 # Database
-DATABASE_URL="postgresql://postgres:pekanbaru@localhost:5432/auth_admin_db?schema=public"
+DATABASE_URL="postgresql://postgres:<password>@localhost:5432/auth_admin_db?schema=public"
 
 # NextAuth.js
 NEXTAUTH_URL="http://localhost:3000"
